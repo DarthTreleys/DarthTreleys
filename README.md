@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darth Treleys a spanish cybersecurity student ^^
 - 👀 I’m interested in protecting digital systems and guaranteeing the privacy of their users 
-- 🌱 I’m currently learning The online Systems and Network Administration professional training course (ASIX 2) and the RH134-Red Hat System Administration II 9 course
+- 🌱 I’m currently learning The Online Systems and Network Administration professional training course (ASIX 2) and the RH134-Red Hat System Administration II 9 course
 - 💞️ I don't expect to collaborate currently 
 - 📫 Discord: darthtreleys 
 - 😄 Pronouns: He/him
