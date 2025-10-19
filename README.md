@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Darth Treleys a spanish cybersecurity student ^^
+- 👋 Hi, I’m Darth Treleys a spanish cybersecurity technician ^^
 - 👀 I’m interested in protecting digital systems and guaranteeing the privacy of their users 
-- 🌱 I’m currently learning The Online Systems and Network Administration professional training course (ASIX 2) and the RH134-Red Hat System Administration II 9 course
-- 💞️ I don't expect to collaborate currently 
+- 🌱 Cisco Badges: Credly, CCNA: Intro to Networks, Cybersecurity Associate. I also finished the Advanced Vocational Training Course in Systems Administration (2023-2025)
+- 💞️ I don't expect to collaborate with nobody right now
 - 📫 Discord: darthtreleys 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:  Software, churches, and cathedrals are very similar: first we build them, then we pray 🗿
