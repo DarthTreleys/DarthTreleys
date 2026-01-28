@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darth Treleys a spanish cybersecurity technician ^^
 - 👀 I’m interested in protecting digital systems and guaranteeing the privacy of their users 
-- 🌱 Cisco Badges: Credly, CCNA: Intro to Networks, Cybersecurity Associate. I also finished the Advanced Vocational Training Course in Systems Administration (2023-2025)
+- 🌱 Cisco Badges/Formation: Credly, CCNA: Intro to Networks, Cybersecurity Associate. I also finished the Advanced Vocational Training Course in Systems and Networks Administration (2023-2025)
 - 💞️ I don't expect to collaborate with nobody right now
 - 📫 Discord: darthtreleys 
 - 😄 Pronouns: He/him
