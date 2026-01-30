@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Darth Treleys a spanish cybersecurity technician ^^
 - 👀 I’m interested in protecting digital systems and guaranteeing the privacy of their users 
-- 🌱 Cisco Badges/Formation: Credly, CCNA: Intro to Networks, Cybersecurity Associate. I also finished the Advanced Vocational Training Course in Systems and Networks Administration (2023-2025), and Im currently working as a network technician in a public highschool (2025-now)
+- 🌱 Cisco Badges: Credly, CCNA: Intro to Networks, Cybersecurity Associate.
+- 📝 Formation: Advanced Vocational Training Course in Systems and Networks Administration (Cybersecurity) (2023-2025), network technician in a public highschool (2025-now)
+- 🖥️ Specializations: Bots/Apps development (Discord), databases creation/edition (MySQL), programming (C, Python, html, css), Web design (Wordpress), OS installation/administration (Windows, Ubuntu, Lubuntu), Pentesting (Kali Linux - Meterpreter, John The Ripper, Hydra; Hack The Box)
 - 💞️ Current Collaborations: Epic Games
 - 📫 Discord: darthtreleys 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact:  Software, churches, and cathedrals are very similar: first we build them, then we pray 🗿
+- ⚡ Fun fact:  Software, churches, and cathedrals are very similar: first we build them, then we pray
