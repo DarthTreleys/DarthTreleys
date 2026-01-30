@@ -2,7 +2,7 @@
 - 👀 I’m interested in protecting digital systems and guaranteeing the privacy of their users.
 - 🌱 Cisco Badges: Credly, CCNA: Intro to Networks, Cybersecurity Associate.
 - 📝 Formation: Advanced Vocational Training Course in Systems and Networks Administration (Cybersecurity) (2023-2025), network technician in a public highschool (2025-now).
-- 🖥️ Specializations: Bots/Apps development (Discord), databases creation/edition (Apache-MySQL), programming (C, Python, html, css, php), Web design (Wordpress), OS installation/administration (Windows - Shell / Ubuntu, Lubuntu - Bash), Pentesting (Kali Linux - Meterpreter, John The Ripper, Hydra, Wireshark / Hack The Box / SQL Injection & SQLMap)
+- 🖥️ Specializations: Bots/Apps development (Discord), databases creation/edition (Apache+MySQL+php), programming (C, Python, html, css, php), Web design (Wordpress), OS installation/administration (Windows - Shell / Ubuntu, Lubuntu - Bash), Pentesting (Kali Linux - Meterpreter, John The Ripper, Hydra, Wireshark / Hack The Box / SQL Injection & SQLMap)
 - 🤝 Current Collaborations: Epic Games
 - 📫 Discord: darthtreleys 
 - 😄 Pronouns: He/him
